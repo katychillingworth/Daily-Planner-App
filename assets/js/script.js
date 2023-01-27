@@ -1,8 +1,8 @@
-// TODO Add current date to the header
+// Adds current date to the header
 var currentDay = moment();
 $("#currentDay").text(currentDay.format("MMMM Do YYYY"));
 
-// TODO Add rows with a for loop to represent timeblocks
+// TODO Add timeblocks for standard business hours when the user scrolls down
 
 // TODO Add colours for past/present/future
 
