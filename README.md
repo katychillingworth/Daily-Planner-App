@@ -1,7 +1,7 @@
 # Planner-App
 
 ## Link to deployed webpage: 
-file:///C:/Users/katyc/bootcamp/plannerapp/planner-app/index.html
+https://katychillingworth.github.io/Planner-App/
 
 ## User Story
 * AS AN employee with a busy schedule
