@@ -9,6 +9,7 @@ $("#currentDay").text(currentDay.format("MMMM Do YYYY"));
 
 // TODO Add colours for past/present/future
 
+
 // TODO Allow user to enter an event when they click timeblock
 // Is in HTML file
 
@@ -62,5 +63,6 @@ loadCalendar();
 })
 
 // TODO Add a button to clear calendar
+
 
 // TODO 
